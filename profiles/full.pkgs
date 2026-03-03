@@ -1,0 +1,25 @@
+# Full "builder" profile (common dev + troubleshooting)
+git
+python
+python-pip
+curl
+wget
+nano
+openssh
+ca-certificates
+zip
+unzip
+tar
+rsync
+htop
+procps
+lsof
+dnsutils
+openssl
+clang
+make
+cmake
+pkg-config
+nodejs
+jq
+ripgrep

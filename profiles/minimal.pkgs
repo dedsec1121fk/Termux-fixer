@@ -1,0 +1,7 @@
+# Minimal essentials (safe defaults)
+git
+python
+curl
+wget
+nano
+openssh
